@@ -1,0 +1,6 @@
+flask
+transformers
+torch
+requests
+PyPDF2
+python-docx
