@@ -7,7 +7,7 @@
 
 A comprehensive web application that leverages AI to assist with sustainable urban development and smart city planning. This application uses the IBM Granite model to provide insights on sustainability topics, document analysis, weather data analysis, and climate change implications.
 
-![Smart City AI Assistant](https://raw.githubusercontent.com/KanukaVinay/sustainable-smart-city-ai-assistant/main/static/screenshot.png)
+![Smart City AI Assistant](https://raw.githubusercontent.com/vasudev4125/sustainable-smart-city-ai-assistant/main/static/screenshot.png)
 
 ## 🌟 Features
 
@@ -38,7 +38,7 @@ A comprehensive web application that leverages AI to assist with sustainable urb
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KanukaVinay/sustainable-smart-city-ai-assistant.git
+   git clone https://github.com/vasudev4125/sustainable-smart-city-ai-assistant.git
    cd sustainable-smart-city-ai-assistant
    ```
 
